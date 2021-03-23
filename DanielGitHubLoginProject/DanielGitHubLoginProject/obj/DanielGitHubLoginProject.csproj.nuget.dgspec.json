@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\DanielLiwanag\\Desktop\\DanielGitHubLoginProject\\DanielGitHubLoginProject\\DanielGitHubLoginProject.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\DanielLiwanag\\Desktop\\DanielGitHubLoginProject\\DanielGitHubLoginProject\\DanielGitHubLoginProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DanielLiwanag\\Desktop\\DanielGitHubLoginProject\\DanielGitHubLoginProject\\DanielGitHubLoginProject.csproj",
+        "projectName": "DanielGitHubLoginProject",
+        "projectPath": "C:\\Users\\DanielLiwanag\\Desktop\\DanielGitHubLoginProject\\DanielGitHubLoginProject\\DanielGitHubLoginProject.csproj",
+        "packagesPath": "C:\\Users\\DanielLiwanag\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DanielLiwanag\\Desktop\\DanielGitHubLoginProject\\DanielGitHubLoginProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DanielLiwanag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.Net.Http": {
+              "target": "Package",
+              "version": "[2.2.29, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

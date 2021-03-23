@@ -1,0 +1,13 @@
+C:\Users\DanielLiwanag\Desktop\DanielGitHubLoginProject\DanielGitHubLoginProject\bin\Debug\DanielGitHubLoginProject.exe.config
+C:\Users\DanielLiwanag\Desktop\DanielGitHubLoginProject\DanielGitHubLoginProject\bin\Debug\DanielGitHubLoginProject.exe
+C:\Users\DanielLiwanag\Desktop\DanielGitHubLoginProject\DanielGitHubLoginProject\bin\Debug\DanielGitHubLoginProject.pdb
+C:\Users\DanielLiwanag\Desktop\DanielGitHubLoginProject\DanielGitHubLoginProject\obj\Debug\DanielGitHubLoginProject.csprojAssemblyReference.cache
+C:\Users\DanielLiwanag\Desktop\DanielGitHubLoginProject\DanielGitHubLoginProject\obj\Debug\DanielGitHubLoginProject.Form1.resources
+C:\Users\DanielLiwanag\Desktop\DanielGitHubLoginProject\DanielGitHubLoginProject\obj\Debug\DanielGitHubLoginProject.Properties.Resources.resources
+C:\Users\DanielLiwanag\Desktop\DanielGitHubLoginProject\DanielGitHubLoginProject\obj\Debug\DanielGitHubLoginProject.csproj.GenerateResource.cache
+C:\Users\DanielLiwanag\Desktop\DanielGitHubLoginProject\DanielGitHubLoginProject\obj\Debug\DanielGitHubLoginProject.csproj.CoreCompileInputs.cache
+C:\Users\DanielLiwanag\Desktop\DanielGitHubLoginProject\DanielGitHubLoginProject\obj\Debug\DanielGitHubLoginProject.exe
+C:\Users\DanielLiwanag\Desktop\DanielGitHubLoginProject\DanielGitHubLoginProject\obj\Debug\DanielGitHubLoginProject.pdb
+C:\Users\DanielLiwanag\Desktop\DanielGitHubLoginProject\DanielGitHubLoginProject\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\DanielLiwanag\Desktop\DanielGitHubLoginProject\DanielGitHubLoginProject\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\DanielLiwanag\Desktop\DanielGitHubLoginProject\DanielGitHubLoginProject\obj\Debug\DanielGitHubLoginProject.csproj.CopyComplete

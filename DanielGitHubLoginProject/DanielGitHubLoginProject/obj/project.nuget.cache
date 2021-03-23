@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qKtWCKHuUCT8XJKOmTLRl3+ztnDTmDvAMYAdapZi50Fv2vx1ZqRSH/xWCN0Kl/Wh0xWFJNflzoHvjFynt5yJUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DanielLiwanag\\Desktop\\DanielGitHubLoginProject\\DanielGitHubLoginProject\\DanielGitHubLoginProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DanielLiwanag\\.nuget\\packages\\microsoft.bcl\\1.1.10\\microsoft.bcl.1.1.10.nupkg.sha512",
+    "C:\\Users\\DanielLiwanag\\.nuget\\packages\\microsoft.bcl.build\\1.0.14\\microsoft.bcl.build.1.0.14.nupkg.sha512",
+    "C:\\Users\\DanielLiwanag\\.nuget\\packages\\microsoft.net.http\\2.2.29\\microsoft.net.http.2.2.29.nupkg.sha512"
+  ],
+  "logs": []
+}
